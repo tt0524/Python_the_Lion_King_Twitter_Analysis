@@ -1,6 +1,9 @@
 ## CMPE 256 2019 Summer
 
-### Author:
+### Project Name:
+* The Lion King Movie Twitter Analysis
+
+### Author
 * Xiaoting Jin (ID: 013842192)
 
 ### Contents:
