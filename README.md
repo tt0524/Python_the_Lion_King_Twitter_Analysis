@@ -1,4 +1,4 @@
-## CMPE 256 2019 Summer
+## CMPE 256  Summer 2019
 
 ### Project Name:
 * The Lion King Movie Twitter Analysis
